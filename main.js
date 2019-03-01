@@ -1,1 +1,3 @@
-let myNumber = 10;
+$(document).ready(function(){
+console.log("You are reading this from the console ");
+});
