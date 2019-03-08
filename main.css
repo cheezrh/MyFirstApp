@@ -1,0 +1,13 @@
+#mainCanvas{
+    width: 400px;
+    height: 400px;
+    border: solid 1px black;
+
+}
+
+#childCanvas{
+    width: 300px;
+    height: 300px;
+    border: solid 10px red;
+    
+}
